@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<img src="https://img.icons8.com/fluency-systems-filled/64/00F7FF/developer.png" width="48"/>
+<img src="https://img.icons8.com/fluency-systems-filled/32/00F7FF/developer.png" width="30"/>
 
 ### Data Scientist • ML Engineer • Full Stack Developer
 
@@ -76,7 +76,7 @@ My work spans **data analytics, machine learning, web development, databases, bu
 
 <div align="center">
 
-<img src="https://img.icons8.com/fluency-systems-filled/48/00F7FF/combo-chart.png" width="42"/>
+<img src="https://img.icons8.com/fluency-systems-filled/32/00F7FF/combo-chart.png" width="28"/>
 
 ### DATA SCIENCE & ANALYTICS
 
@@ -96,7 +96,7 @@ Transform raw data into meaningful insights and actionable information.
 
 <div align="center">
 
-<img src="https://img.icons8.com/fluency-systems-filled/48/8A2BE2/artificial-intelligence.png" width="42"/>
+<img src="https://img.icons8.com/fluency-systems-filled/32/8A2BE2/artificial-intelligence.png" width="28"/>
 
 ### MACHINE LEARNING
 
@@ -120,7 +120,7 @@ Build intelligent systems that learn from data and solve practical problems.
 
 <div align="center">
 
-<img src="https://img.icons8.com/fluency-systems-filled/48/FF1493/code.png" width="42"/>
+<img src="https://img.icons8.com/fluency-systems-filled/32/FF1493/code.png" width="28"/>
 
 ### FULL-STACK DEVELOPMENT
 
@@ -140,7 +140,7 @@ Build complete web applications from frontend interfaces to backend systems.
 
 <div align="center">
 
-<img src="https://img.icons8.com/fluency-systems-filled/48/00F7FF/dashboard-layout.png" width="42"/>
+<img src="https://img.icons8.com/fluency-systems-filled/32/00F7FF/dashboard-layout.png" width="28"/>
 
 ### BUSINESS INTELLIGENCE
 
@@ -171,7 +171,7 @@ Turn complex datasets into interactive dashboards and understandable insights.
 
 <div align="center">
 
-<img src="https://img.icons8.com/fluency-systems-filled/42/00F7FF/shopping-cart.png" width="38"/>
+<img src="https://img.icons8.com/fluency-systems-filled/32/00F7FF/shopping-cart.png" width="28"/>
 
 ### E-Commerce Platforms
 
@@ -192,7 +192,7 @@ Building complete commerce applications with modern web technologies.
 
 <div align="center">
 
-<img src="https://img.icons8.com/fluency-systems-filled/42/8A2BE2/company.png" width="38"/>
+<img src="https://img.icons8.com/fluency-systems-filled/32/8A2BE2/company.png" width="28"/>
 
 ### Business Systems
 
@@ -217,7 +217,7 @@ Developing management and ERP-style applications for real-world workflows.
 
 <div align="center">
 
-<img src="https://img.icons8.com/fluency-systems-filled/42/FF1493/artificial-intelligence.png" width="38"/>
+<img src="https://img.icons8.com/fluency-systems-filled/32/FF1493/artificial-intelligence.png" width="28"/>
 
 ### AI-Powered Applications
 
@@ -238,7 +238,7 @@ Integrating AI and machine learning into practical applications.
 
 <div align="center">
 
-<img src="https://img.icons8.com/fluency-systems-filled/42/00F7FF/combo-chart.png" width="38"/>
+<img src="https://img.icons8.com/fluency-systems-filled/32/00F7FF/combo-chart.png" width="28"/>
 
 ### Analytics & BI
 
@@ -263,7 +263,7 @@ Creating data-driven dashboards that transform information into insights.
 
 <div align="center">
 
-<img src="https://img.icons8.com/fluency-systems-filled/42/8A2BE2/settings.png" width="38"/>
+<img src="https://img.icons8.com/fluency-systems-filled/32/8A2BE2/settings.png" width="28"/>
 
 ### Business Automation
 
@@ -284,7 +284,7 @@ Designing solutions that reduce repetitive work and improve workflows.
 
 <div align="center">
 
-<img src="https://img.icons8.com/fluency-systems-filled/42/FF1493/cloud.png" width="38"/>
+<img src="https://img.icons8.com/fluency-systems-filled/32/FF1493/cloud.png" width="28"/>
 
 ### Cloud & Deployment
 
@@ -409,7 +409,7 @@ Deploying and configuring applications for reliable access and scalability.
 
 <td width="33%" align="center" valign="top">
 
-<img src="https://img.icons8.com/fluency-systems-filled/48/00F7FF/artificial-intelligence.png" width="42"/>
+<img src="https://img.icons8.com/fluency-systems-filled/32/00F7FF/artificial-intelligence.png" width="28"/>
 
 ### Artificial Intelligence
 
@@ -421,7 +421,7 @@ Intelligent Automation
 
 <td width="33%" align="center" valign="top">
 
-<img src="https://img.icons8.com/fluency-systems-filled/48/8A2BE2/combo-chart.png" width="42"/>
+<img src="https://img.icons8.com/fluency-systems-filled/32/8A2BE2/combo-chart.png" width="28"/>
 
 ### Advanced Analytics
 
@@ -433,7 +433,7 @@ Statistical Modeling
 
 <td width="33%" align="center" valign="top">
 
-<img src="https://img.icons8.com/fluency-systems-filled/48/FF1493/cloud.png" width="42"/>
+<img src="https://img.icons8.com/fluency-systems-filled/32/FF1493/cloud.png" width="28"/>
 
 ### Cloud & Systems
 
@@ -449,7 +449,7 @@ Scalable Architecture
 
 <td width="33%" align="center" valign="top">
 
-<img src="https://img.icons8.com/fluency-systems-filled/48/00F7FF/code.png" width="42"/>
+<img src="https://img.icons8.com/fluency-systems-filled/32/00F7FF/code.png" width="28"/>
 
 ### ML Engineering
 
@@ -461,7 +461,7 @@ Model Deployment
 
 <td width="33%" align="center" valign="top">
 
-<img src="https://img.icons8.com/fluency-systems-filled/48/8A2BE2/dashboard-layout.png" width="42"/>
+<img src="https://img.icons8.com/fluency-systems-filled/32/8A2BE2/dashboard-layout.png" width="28"/>
 
 ### Business Intelligence
 
@@ -473,7 +473,7 @@ Data Storytelling
 
 <td width="33%" align="center" valign="top">
 
-<img src="https://img.icons8.com/fluency-systems-filled/48/FF1493/server.png" width="42"/>
+<img src="https://img.icons8.com/fluency-systems-filled/32/FF1493/server.png" width="28"/>
 
 ### Full-Stack Systems
 
@@ -519,13 +519,13 @@ Database Architecture
 
 <div align="center">
 
-<img src="https://img.icons8.com/fluency-systems-filled/42/00F7FF/marker.png" width="32"/>
+<img src="https://img.icons8.com/fluency-systems-filled/32/00F7FF/marker.png" width="26"/>
 
 ### Aurangabad, Maharashtra, India
 
 <br>
 
-<img src="https://img.icons8.com/fluency-systems-filled/42/8A2BE2/new-post.png" width="32"/>
+<img src="https://img.icons8.com/fluency-systems-filled/32/8A2BE2/new-post.png" width="26"/>
 
 ### [bilaltamboli75@gmail.com](mailto:bilaltamboli75@gmail.com)
 
