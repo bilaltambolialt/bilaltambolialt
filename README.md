@@ -1,6 +1,10 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Bilal+Iqbal+Tamboli;Data+Scientist+%7C+ML+Engineer+%7C+Full+Stack;Building+Intelligent+Solutions" alt="Typing Animation"/>
+# Bilal Iqbal Tamboli
+
+**Data Scientist | ML Engineer | Full Stack Developer**
+
+*Building Intelligent Solutions with Data & Technology*
 
 ---
 
@@ -41,12 +45,18 @@
 ## Competencies Matrix
 
 ```
-DATA SCIENCE & ANALYTICS          ████████████████████░ 90%
-MACHINE LEARNING ENGINEERING      ███████████████░░░░░ 80%
-FULL-STACK WEB DEVELOPMENT        ███████████████░░░░░ 80%
-DATABASE DESIGN & OPTIMIZATION    █████████████████░░░ 85%
-BUSINESS INTELLIGENCE & BI TOOLS  ████████████████████░ 92%
-PYTHON PROGRAMMING                █████████████████░░░ 87%
+║ DATA SCIENCE & ANALYTICS ════════════════════════════════════════ 90% ║
+║                                                                        ║
+║ MACHINE LEARNING ENGINEERING ════════════════════════════════════ 80% ║
+║                                                                        ║
+║ FULL-STACK WEB DEVELOPMENT ══════════════════════════════════════ 80% ║
+║                                                                        ║
+║ DATABASE DESIGN & OPTIMIZATION ══════════════════════════════════ 85% ║
+║                                                                        ║
+║ BUSINESS INTELLIGENCE & BI ══════════════════════════════════════ 92% ║
+║                                                                        ║
+║ PYTHON PROGRAMMING ══════════════════════════════════════════════ 87% ║
+╚════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -54,29 +64,29 @@ PYTHON PROGRAMMING                ███████████████�
 ## What I Do
 
 ```
-┌─────────────────────────────────────────────┐
-│  DATA SCIENCE & ANALYTICS                  │
-│  Transform raw data into actionable insights│
-│  KPI dashboards, Predictive modeling, EDA  │
-└─────────────────────────────────────────────┘
+╔═══════════════════════════════════════════════════════════════════════╗
+║ ▶ DATA SCIENCE & ANALYTICS                                           ║
+║   Transform raw data into actionable insights                         ║
+║   KPI dashboards | Predictive modeling | Exploratory Data Analysis   ║
+╚═══════════════════════════════════════════════════════════════════════╝
 
-┌─────────────────────────────────────────────┐
-│  MACHINE LEARNING ENGINEERING               │
-│  Build intelligent systems at scale         │
-│  Model development, Feature engineering     │
-└─────────────────────────────────────────────┘
+╔═══════════════════════════════════════════════════════════════════════╗
+║ ▶ MACHINE LEARNING ENGINEERING                                       ║
+║   Build intelligent systems at scale                                  ║
+║   Model development | Feature engineering | Deep Learning            ║
+╚═══════════════════════════════════════════════════════════════════════╝
 
-┌─────────────────────────────────────────────┐
-│  FULL-STACK WEB DEVELOPMENT                │
-│  End-to-end application solutions           │
-│  React frontends, Node backends, Databases │
-└─────────────────────────────────────────────┘
+╔═══════════════════════════════════════════════════════════════════════╗
+║ ▶ FULL-STACK WEB DEVELOPMENT                                         ║
+║   End-to-end application solutions                                    ║
+║   React frontends | Node backends | Database design                  ║
+╚═══════════════════════════════════════════════════════════════════════╝
 
-┌─────────────────────────────────────────────┐
-│  BUSINESS INTELLIGENCE                     │
-│  Interactive dashboards & visualization    │
-│  Power BI, Tableau, Data storytelling      │
-└─────────────────────────────────────────────┘
+╔═══════════════════════════════════════════════════════════════════════╗
+║ ▶ BUSINESS INTELLIGENCE                                              ║
+║   Interactive dashboards & visualization                              ║
+║   Power BI | Tableau | Data storytelling & Insights                  ║
+╚═══════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -86,18 +96,23 @@ PYTHON PROGRAMMING                ███████████████�
 **Freelance Developer** (June 2025 - May 2026)
 
 ```
-8+ Projects Delivered
-├── E-Commerce Platforms (Payment Integration)
-├── Custom ERP Systems (Complex Workflows)
-├── AI-Powered Applications (Chatbots, Recommendations)
-├── Analytics Dashboards (BI Solutions)
-├── Business Automation Tools
-└── Cloud Infrastructure
-
-Metrics
-├── 100% On-Time Delivery
-├── 4.8/5.0 Client Satisfaction
-└── 60%+ Repeat Engagement
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ 8+ PROJECTS DELIVERED                                          ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃                                                                 ┃
+┃  → E-Commerce Platforms (Payment Integration)                 ┃
+┃  → Custom ERP Systems (Complex Workflows)                     ┃
+┃  → AI-Powered Applications (Chatbots, Recommendations)        ┃
+┃  → Analytics Dashboards (BI Solutions)                        ┃
+┃  → Business Automation Tools                                  ┃
+┃  → Cloud Infrastructure Setup                                 ┃
+┃                                                                 ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃ METRICS                                                         ┃
+┃ ✓ 100% On-Time Delivery                                        ┃
+┃ ✓ 4.8/5.0 Client Satisfaction                                 ┃
+┃ ✓ 60%+ Repeat Engagement                                       ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
 ---
@@ -105,17 +120,25 @@ Metrics
 ## Tech Stack Overview
 
 ```
-FRONTEND               BACKEND                 DATABASES
-├── React.js          ├── Node.js              ├── PostgreSQL
-├── TypeScript         ├── Express.js           ├── MySQL
-├── HTML/CSS           ├── Python Flask         ├── Firebase
-└── REST APIs          └── System Design        └── MongoDB
+┌─────────────────────────────────────────────────────────────────┐
+│ FRONTEND LAYER          │ BACKEND LAYER         │ DATABASES    │
+├─────────────────────────────────────────────────────────────────┤
+│ ► React.js              │ ► Node.js             │ ► PostgreSQL │
+│ ► TypeScript            │ ► Express.js          │ ► MySQL      │
+│ ► HTML/CSS              │ ► Python Flask        │ ► Firebase   │
+│ ► REST APIs             │ ► System Design       │ ► MongoDB    │
+│                         │ ► Microservices       │ ► Databricks │
+└─────────────────────────────────────────────────────────────────┘
 
-DATA SCIENCE           TOOLS & PLATFORMS
-├── Pandas/NumPy       ├── Git & GitHub
-├── Scikit-learn       ├── Jupyter Notebooks
-├── TensorFlow         ├── VS Code
-└── Matplotlib         └── Databricks
+┌─────────────────────────────────────────────────────────────────┐
+│ DATA SCIENCE            │ TOOLS & PLATFORMS                     │
+├─────────────────────────────────────────────────────────────────┤
+│ ► Pandas/NumPy          │ ► Git & GitHub                        │
+│ ► Scikit-learn          │ ► Jupyter Notebooks                   │
+│ ► TensorFlow/Keras      │ ► VS Code & PyCharm                   │
+│ ► Matplotlib/Seaborn    │ ► Databricks & Power BI               │
+│ ► Statistical Modeling  │ ► Google Cloud Platform               │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 ---
