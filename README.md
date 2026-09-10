@@ -1,26 +1,10 @@
 <div align="center">
 
-# Bilal Iqbal Tamboli
-
-**Data Scientist | ML Engineer | Full Stack Developer**
-
-*Building Intelligent Solutions with Data & Technology*
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Bilal+Iqbal+Tamboli;Data+Scientist+%7C+ML+Engineer+%7C+Full+Stack;Building+Intelligent+Solutions" alt="Typing Animation"/>
 
 ---
 
 </div>
-
-## Profile Overview
-
-| Category | Details |
-|----------|---------|
-| **Experience** | 8+ Freelance Projects, End-to-End Solutions |
-| **Expertise** | Data Science, ML Engineering, Full-Stack Development, BI Analytics |
-| **Tech Stack** | Python, SQL, React.js, Power BI, Databricks, TensorFlow |
-| **Location** | Aurangabad, Maharashtra |
-| **Education** | B.Tech in ECE, Google Cloud Certified |
-
----
 
 ## Technical Skills
 
@@ -54,43 +38,6 @@
 
 ---
 
-## Featured Projects
-
-### 1. FIFA World Cup 2026 - Analytics Dashboard
-**Power BI | DAX | Data Modeling** | [View](https://github.com/bilaltambolialt/analytics_dashboard_fifawc26)
-
-Interactive 6-page Power BI dashboard with 9-table relational data model, KPI dashboards, team comparisons, and geographic insights. Features DAX calculations, xG analysis, and drill-through capabilities for tournament performance analytics.
-
----
-
-### 2. Wander Bricks - SQL Data Analysis
-**Databricks | SQL | Python** | [View](https://github.com/bilaltambolialt/wander-bricks_project)
-
-Advanced SQL analytics project analyzing vacation rental data. Implemented complex joins, window functions, CTEs, and time-series analysis to identify revenue trends, seasonal patterns, and optimization opportunities across bookings and properties.
-
----
-
-### 3. Motion Detection - Computer Vision
-**Python | OpenCV | ML** | [View](https://github.com/bilaltambolialt/motion-detection-keyboard)
-
-Machine learning pipeline for hand gesture recognition and keyboard control. CNN-based hand segmentation with real-time inference, 94%+ accuracy, <100ms latency, enabling gesture-based human-computer interaction.
-
----
-
-### 4. Smart CSV Contact Filter
-**Python | Pandas | Data Engineering** | [View](https://github.com/bilaltambolialt/data-filter-tool)
-
-Automated data cleaning pipeline with GUI. Validates phone numbers, emails, and social handles using regex. Automatic delimiter detection and real-time filtering reducing manual effort by 80%+.
-
----
-
-### 5. Event Booking Platform
-**React.js | TypeScript | Firebase** | [View](https://github.com/bilaltambolialt/event-booking-platform)
-
-Full-stack booking application built with React frontend, Node.js backend, and Firebase real-time database. Features event discovery, booking management, payment integration, and admin dashboard with 99.9% uptime.
-
----
-
 ## Competencies Matrix
 
 ```
@@ -104,62 +51,95 @@ PYTHON PROGRAMMING                ███████████████�
 
 ---
 
-## Professional Experience
+## What I Do
+
+```
+┌─────────────────────────────────────────────┐
+│  DATA SCIENCE & ANALYTICS                  │
+│  Transform raw data into actionable insights│
+│  KPI dashboards, Predictive modeling, EDA  │
+└─────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────┐
+│  MACHINE LEARNING ENGINEERING               │
+│  Build intelligent systems at scale         │
+│  Model development, Feature engineering     │
+└─────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────┐
+│  FULL-STACK WEB DEVELOPMENT                │
+│  End-to-end application solutions           │
+│  React frontends, Node backends, Databases │
+└─────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────┐
+│  BUSINESS INTELLIGENCE                     │
+│  Interactive dashboards & visualization    │
+│  Power BI, Tableau, Data storytelling      │
+└─────────────────────────────────────────────┘
+```
+
+---
+
+## Experience Highlights
 
 **Freelance Developer** (June 2025 - May 2026)
 
-Completed 8+ end-to-end projects for startups and small businesses:
-- E-commerce platforms with payment integration
-- Custom ERP systems with complex workflows
-- AI-powered applications (chatbots, recommendations)
-- Data analytics dashboards and BI solutions
-- Business process automation tools
+```
+8+ Projects Delivered
+├── E-Commerce Platforms (Payment Integration)
+├── Custom ERP Systems (Complex Workflows)
+├── AI-Powered Applications (Chatbots, Recommendations)
+├── Analytics Dashboards (BI Solutions)
+├── Business Automation Tools
+└── Cloud Infrastructure
 
-**Key Metrics:** 100% on-time delivery, 4.8/5.0 client satisfaction, 60%+ repeat engagement
-
----
-
-## Education
-
-**Bachelor of Technology - Electronics and Computer Engineering**
-- P.E.S. College of Engineering, Aurangabad (Sep 2023 - Jul 2026)
-
-**Diploma in Computer Engineering**
-- P.E.S. Polytechnic, Aurangabad (Jun 2020 - Jun 2023) | Score: 73.41%
-
-**Certification:** Google Cloud Computing Foundations (GDSC P.E.S. COE)
+Metrics
+├── 100% On-Time Delivery
+├── 4.8/5.0 Client Satisfaction
+└── 60%+ Repeat Engagement
+```
 
 ---
 
-## Tech Ecosystem
+## Tech Stack Overview
 
-**Data Science:** Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn
+```
+FRONTEND               BACKEND                 DATABASES
+├── React.js          ├── Node.js              ├── PostgreSQL
+├── TypeScript         ├── Express.js           ├── MySQL
+├── HTML/CSS           ├── Python Flask         ├── Firebase
+└── REST APIs          └── System Design        └── MongoDB
 
-**Web Development:** React, Node.js, Express, HTML/CSS, REST APIs
-
-**Databases:** PostgreSQL, MySQL, Firebase, MongoDB, Databricks
-
-**Tools:** Power BI, Tableau, Jupyter, Excel, Git, GitHub, VS Code
+DATA SCIENCE           TOOLS & PLATFORMS
+├── Pandas/NumPy       ├── Git & GitHub
+├── Scikit-learn       ├── Jupyter Notebooks
+├── TensorFlow         ├── VS Code
+└── Matplotlib         └── Databricks
+```
 
 ---
 
-## Current Focus
-
-Advanced SQL optimization, Deep Learning & Neural Networks, Cloud Architecture, Real-Time Data Processing, Production ML Systems
-
----
-
-## Connect
+## Connect & Collaborate
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-iqbal-tamboli/)
+### Let's Work Together
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilaltamboli75/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bilaltambolialt)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/bilaltamboli75/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilaltamboli75@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/bilaltamboli75/)
 
-**Open to:** Data Science Projects | ML Engineering | Full-Stack Development | Collaboration
+**Available For:** Data Science | ML Engineering | Full-Stack Development | Collaboration
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=bilaltambolialt&color=0099ff&style=flat-square)
+---
+
+**Location:** Aurangabad, Maharashtra | **Email:** bilaltamboli75@gmail.com
+
+Open to exciting opportunities and innovative projects
+
+---
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=bilaltambolialt&color=00D4FF&style=flat-square)
 
 </div>
