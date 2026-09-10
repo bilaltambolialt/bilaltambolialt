@@ -1,205 +1,306 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Bilal+Iqbal+Tamboli" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Bilal+Iqbal+Tamboli;Data+Scientist+%7C+ML+Engineer;Full+Stack+Developer" alt="Typing SVG" />
 
-**Data Scientist | ML Engineer | Full Stack Developer**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:8A2BE2,100:FF1493&height=3&section=header" width="100%" />
 
-*Building Intelligent Solutions with Data & Technology*
+### `Building Intelligent Solutions with Data & Technology`
 
----
+<p>
+  <a href="https://www.linkedin.com/in/bilaltamboli75/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/bilaltambolialt">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/bilaltamboli75/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
 
-</div>
-
-## Technical Skills
-
-<div align="center">
-
-### Core Languages & Frameworks
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1f1f1f)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1f1f1f)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=1f1f1f)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1f1f1f)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1f1f1f)
-
-### Data & ML Stack
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1f1f1f)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1f1f1f)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=1f1f1f)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1f1f1f)
-![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black&labelColor=1f1f1f)
-
-### Databases & Platforms
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1f1f1f)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1f1f1f)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white&labelColor=1f1f1f)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=1f1f1f)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1f1f1f)
+<img src="https://komarev.com/ghpvc/?username=bilaltambolialt&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" />
 
 </div>
 
 ---
 
-## Competencies Matrix
+## 👨‍💻 About Me
 
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ DATA SCIENCE & ANALYTICS                                  ┃
-┃ ████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 90%   ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+I'm **Bilal Iqbal Tamboli**, a developer focused on combining **data, machine learning, and software engineering** to build practical technology solutions.
 
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ MACHINE LEARNING ENGINEERING                              ┃
-┃ ████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 80%   ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+I enjoy working across the complete lifecycle of a project — from exploring and understanding data to building ML models, designing databases, developing applications, and turning results into useful dashboards.
 
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ FULL-STACK WEB DEVELOPMENT                                ┃
-┃ ████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 80%   ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ DATABASE DESIGN & OPTIMIZATION                            ┃
-┃ ██████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 85%   ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ BUSINESS INTELLIGENCE & BI TOOLS                          ┃
-┃ ██████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 92%   ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ PYTHON PROGRAMMING                                        ┃
-┃ ██████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 87%   ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
----
-
-## What I Do
-
-```
-╔════════════════════════════════════════════════════════════════╗
-║                                                                ║
-║  ▶ DATA SCIENCE & ANALYTICS                                   ║
-║    Transform raw data into actionable insights                ║
-║    ─ KPI dashboards                                           ║
-║    ─ Predictive modeling                                      ║
-║    ─ Exploratory Data Analysis                                ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-
-
-╔════════════════════════════════════════════════════════════════╗
-║                                                                ║
-║  ▶ MACHINE LEARNING ENGINEERING                               ║
-║    Build intelligent systems at scale                          ║
-║    ─ Model development & training                             ║
-║    ─ Feature engineering                                      ║
-║    ─ Deep Learning applications                                ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-
-
-╔════════════════════════════════════════════════════════════════╗
-║                                                                ║
-║  ▶ FULL-STACK WEB DEVELOPMENT                                 ║
-║    End-to-end application solutions                            ║
-║    ─ React frontends                                          ║
-║    ─ Node.js backends                                         ║
-║    ─ Database design & integration                            ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-
-
-╔════════════════════════════════════════════════════════════════╗
-║                                                                ║
-║  ▶ BUSINESS INTELLIGENCE                                      ║
-║    Interactive dashboards & visualization                      ║
-║    ─ Power BI & Tableau                                       ║
-║    ─ Data storytelling                                        ║
-║    ─ Insights & reporting                                     ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-```
-
----
-
-## Experience Highlights
-
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ FREELANCE DEVELOPER (June 2025 - May 2026)               ┃
-┃                                                           ┃
-┃  ✓ 8+ PROJECTS DELIVERED                                ┃
-┃                                                           ┃
-┃    → E-Commerce Platforms (Payment Integration)         ┃
-┃    → Custom ERP Systems (Complex Workflows)             ┃
-┃    → AI-Powered Applications (Chatbots, Recs)           ┃
-┃    → Analytics Dashboards (BI Solutions)                ┃
-┃    → Business Automation Tools                          ┃
-┃    → Cloud Infrastructure Setup                         ┃
-┃                                                           ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃ ACHIEVEMENT METRICS                                     ┃
-┃                                                           ┃
-┃  ★★★★★ 100% On-Time Delivery                           ┃
-┃  ★★★★★ 4.8/5.0 Client Satisfaction                    ┃
-┃  ★★★★★ 60%+ Repeat Engagement                          ┃
-┃                                                           ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
----
-
-## Tech Stack Overview
-
-```
+```text
 ┌──────────────────────────────────────────────────────────────┐
-│ FRONTEND LAYER      │ BACKEND LAYER       │ DATABASES        │
+│                        CURRENT FOCUS                          │
 ├──────────────────────────────────────────────────────────────┤
-│ ▸ React.js          │ ▸ Node.js           │ ▸ PostgreSQL     │
-│ ▸ TypeScript        │ ▸ Express.js        │ ▸ MySQL          │
-│ ▸ HTML/CSS          │ ▸ Python Flask      │ ▸ Firebase       │
-│ ▸ REST APIs         │ ▸ System Design     │ ▸ MongoDB        │
-│                     │                     │ ▸ Databricks     │
-└──────────────────────────────────────────────────────────────┘
-
-┌──────────────────────────────────────────────────────────────┐
-│ DATA SCIENCE                │ TOOLS & PLATFORMS             │
-├──────────────────────────────────────────────────────────────┤
-│ ▸ Pandas/NumPy              │ ▸ Git & GitHub                │
-│ ▸ Scikit-learn              │ ▸ Jupyter Notebooks           │
-│ ▸ TensorFlow/Keras          │ ▸ VS Code & PyCharm           │
-│ ▸ Matplotlib/Seaborn        │ ▸ Databricks & Power BI       │
-│ ▸ Statistical Modeling      │ ▸ Google Cloud Platform       │
+│                                                              │
+│  📊 Data Science & Analytics                                │
+│  🤖 Machine Learning Engineering                            │
+│  🌐 Full-Stack Web Development                              │
+│  📈 Business Intelligence & Data Visualization              │
+│  🗄️ Database Design & Optimization                          │
+│  ☁️ Cloud & Application Deployment                          │
+│                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## Connect & Collaborate
+# ⚡ Core Competencies
 
 <div align="center">
 
-### Let's Build Something Amazing
+| Area                               |   Focus |
+| ---------------------------------- | ------: |
+| 📊 Data Science & Analytics        | **90%** |
+| 🤖 Machine Learning Engineering    | **80%** |
+| 🌐 Full-Stack Web Development      | **80%** |
+| 🗄️ Database Design & Optimization | **85%** |
+| 📈 Business Intelligence           | **92%** |
+| 🐍 Python Programming              | **87%** |
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilaltamboli75/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bilaltambolialt)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/bilaltamboli75/)
+</div>
+
+> These percentages represent my current **focus/proficiency areas**, not formal certifications or standardized assessments.
 
 ---
 
-**Available For:** Data Science | ML Engineering | Full-Stack Development | Collaboration
+# 🧠 What I Do
 
-**Location:** Aurangabad, Maharashtra | **Email:** bilaltamboli75@gmail.com
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Open to exciting opportunities and innovative projects
+### ▶ DATA SCIENCE & ANALYTICS
+
+Transform raw data into actionable insights.
+
+**Focus**
+
+* KPI dashboards
+* Exploratory Data Analysis
+* Predictive modeling
+* Data cleaning & preprocessing
+* Statistical analysis
+
+</td>
+
+<td width="50%" valign="top">
+
+### ▶ MACHINE LEARNING
+
+Build intelligent systems from data.
+
+**Focus**
+
+* Model development
+* Feature engineering
+* Classification & regression
+* Deep learning
+* Model evaluation
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ▶ FULL-STACK DEVELOPMENT
+
+Build end-to-end application solutions.
+
+**Focus**
+
+* React frontends
+* Node.js backends
+* REST APIs
+* Authentication
+* Database design
+
+</td>
+
+<td width="50%" valign="top">
+
+### ▶ BUSINESS INTELLIGENCE
+
+Turn complex data into understandable insights.
+
+**Focus**
+
+* Power BI
+* Interactive dashboards
+* Data visualization
+* KPI development
+* Data storytelling
+
+</td>
+</tr>
+</table>
 
 ---
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=bilaltambolialt&color=00D4FF&style=flat-square)
+# 🚀 Projects & Practical Work
+
+I enjoy building projects that combine **software engineering with data and automation**.
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  PROJECT AREA                         WHAT I BUILD            │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  🛒 E-Commerce                         Full-stack platforms   │
+│     └─ Payments • APIs • Database • Authentication          │
+│                                                              │
+│  🏢 Business Systems                   ERP / Management apps  │
+│     └─ Complex workflows • Records • Reporting              │
+│                                                              │
+│  🤖 AI Applications                    Intelligent systems    │
+│     └─ AI assistants • Recommendations • Automation         │
+│                                                              │
+│  📊 Analytics                          BI & dashboards        │
+│     └─ KPIs • Data analysis • Visualization                 │
+│                                                              │
+│  ⚙️ Automation                         Workflow solutions    │
+│     └─ Process automation • Data handling • APIs            │
+│                                                              │
+│  ☁️ Cloud & Deployment                 Application hosting   │
+│     └─ Deployment • Configuration • Infrastructure           │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,ts,html,css,js" />
+</p>
+
+`React.js` • `TypeScript` • `JavaScript` • `HTML` • `CSS` • `REST APIs`
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+</p>
+
+`Node.js` • `Express.js` • `Python` • `Flask` • `REST APIs` • `System Design`
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" />
+</p>
+
+`PostgreSQL` • `MySQL` • `MongoDB` • `Firebase` • `Databricks`
+
+### 📊 Data Science & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
+</p>
+
+`Pandas` • `NumPy` • `Scikit-learn` • `TensorFlow` • `Keras` • `OpenCV`
+
+`Matplotlib` • `Seaborn` • `Jupyter`
+
+### 🔧 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,gcp" />
+</p>
+
+`Git` • `GitHub` • `VS Code` • `PyCharm` • `Jupyter Notebook` • `Power BI` • `Databricks` • `Google Cloud`
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=bilaltambolialt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilaltambolialt&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=bilaltambolialt&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bilaltambolialt&theme=tokyo-night&hide_border=true" width="95%" />
+
+</div>
+
+---
+
+# 🧩 Currently Exploring
+
+```text
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│  🤖 Advanced Machine Learning                              │
+│  🧠 Generative AI & AI Applications                       │
+│  📊 Advanced Data Analytics                               │
+│  ☁️ Cloud-based Application Architecture                   │
+│  🏗️ Scalable Full-Stack Systems                           │
+│  📈 Advanced Business Intelligence                         │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🤝 Connect & Collaborate
+
+<div align="center">
+
+### Open to exciting opportunities, collaborations & interesting projects.
+
+<br>
+
+<a href="https://www.linkedin.com/in/bilaltamboli75/">
+<img src="https://img.shields.io/badge/LinkedIn-Bilal%20Tamboli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/bilaltambolialt">
+<img src="https://img.shields.io/badge/GitHub-bilaltambolialt-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/bilaltamboli75/">
+<img src="https://img.shields.io/badge/LeetCode-bilaltamboli75-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<br><br>
+
+📍 **Aurangabad, Maharashtra, India**
+
+📧 **[bilaltambolialt@gmail.com](mailto:bilaltambolialt@gmail.com)**
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 `Data → Intelligence → Applications → Impact`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:8A2BE2,100:FF1493&height=100&section=footer" width="100%" />
 
 </div>
