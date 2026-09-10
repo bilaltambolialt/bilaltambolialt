@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<img src="https://img.icons8.com/fluency-systems-filled/32/00F7FF/developer.png" width="28"/>
+<img src="https://img.icons8.com/fluency-systems-filled/32/00F7FF/developer.png" width="26"/>
 
 ### Data Scientist • ML Engineer • Full Stack Developer
 
@@ -157,6 +157,98 @@ Turn complex datasets into interactive dashboards and understandable insights.
 </td>
 
 </tr>
+</table>
+
+---
+
+# Tech Stack
+
+<table width="100%">
+
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,typescript,html,css,js&perline=5" width="220"/>
+
+<br>
+
+<sub>React.js • TypeScript • HTML • CSS • JavaScript</sub>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask&perline=4" width="180"/>
+
+<br>
+
+<sub>Node.js • Express.js • Python • Flask</sub>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase&perline=4" width="180"/>
+
+<br>
+
+<sub>PostgreSQL • MySQL • MongoDB • Firebase</sub>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+### Data Science & ML
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&perline=3" width="140"/>
+
+<br>
+
+<sub>Pandas • NumPy • Scikit-learn • TensorFlow • Keras • OpenCV</sub>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,gcp&perline=5" width="220"/>
+
+<br>
+
+<sub>Git • GitHub • VS Code • PyCharm • Google Cloud</sub>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+### Analytics
+
+<img src="https://img.icons8.com/fluency-systems-filled/30/00F7FF/combo-chart.png" width="24"/>
+
+<br>
+
+<sub>Power BI • Databricks • Jupyter • Matplotlib • Seaborn</sub>
+
+</td>
+
+</tr>
+
 </table>
 
 ---
@@ -283,82 +375,6 @@ Deploying and configuring applications for reliable access and scalability.
 
 ---
 
-# Tech Stack
-
-### Frontend
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,typescript,html,css,js" />
-
-<br>
-
-`React.js`   `TypeScript`   `HTML`   `CSS`   `JavaScript`
-
-</div>
-
----
-
-### Backend
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask" />
-
-<br>
-
-`Node.js`   `Express.js`   `Python`   `Flask`
-
-</div>
-
----
-
-### Databases
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" />
-
-<br>
-
-`PostgreSQL`   `MySQL`   `MongoDB`   `Firebase`
-
-</div>
-
----
-
-### Data Science & Machine Learning
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
-
-<br>
-
-`Pandas`   `NumPy`   `Scikit-learn`   `TensorFlow`   `Keras`   `OpenCV`
-
-</div>
-
----
-
-### Tools & Platforms
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,gcp" />
-
-<br>
-
-`Git`   `GitHub`   `VS Code`   `PyCharm`   `Google Cloud`
-
-<br>
-
-`Power BI`   `Databricks`   `Jupyter`
-
-</div>
-
----
-
 # Currently Exploring
 
 <table width="100%">
@@ -367,7 +383,7 @@ Deploying and configuring applications for reliable access and scalability.
 
 <td width="33%" align="center" valign="top">
 
-<img src="https://img.icons8.com/fluency-systems-filled/32/00F7FF/artificial-intelligence.png" width="26"/>
+<img src="https://img.icons8.com/fluency-systems-filled/32/00F7FF/artificial-intelligence.png" width="24"/>
 
 ### Artificial Intelligence
 
@@ -379,7 +395,7 @@ Intelligent Automation
 
 <td width="33%" align="center" valign="top">
 
-<img src="https://img.icons8.com/fluency-systems-filled/32/8A2BE2/combo-chart.png" width="26"/>
+<img src="https://img.icons8.com/fluency-systems-filled/32/8A2BE2/combo-chart.png" width="24"/>
 
 ### Advanced Analytics
 
@@ -391,7 +407,7 @@ Statistical Modeling
 
 <td width="33%" align="center" valign="top">
 
-<img src="https://img.icons8.com/fluency-systems-filled/32/FF1493/cloud.png" width="26"/>
+<img src="https://img.icons8.com/fluency-systems-filled/32/FF1493/cloud.png" width="24"/>
 
 ### Cloud & Systems
 
@@ -407,7 +423,7 @@ Scalable Architecture
 
 <td width="33%" align="center" valign="top">
 
-<img src="https://img.icons8.com/fluency-systems-filled/32/00F7FF/code.png" width="26"/>
+<img src="https://img.icons8.com/fluency-systems-filled/32/00F7FF/code.png" width="24"/>
 
 ### ML Engineering
 
@@ -419,7 +435,7 @@ Model Deployment
 
 <td width="33%" align="center" valign="top">
 
-<img src="https://img.icons8.com/fluency-systems-filled/32/8A2BE2/dashboard-layout.png" width="26"/>
+<img src="https://img.icons8.com/fluency-systems-filled/32/8A2BE2/dashboard-layout.png" width="24"/>
 
 ### Business Intelligence
 
@@ -431,7 +447,7 @@ Data Storytelling
 
 <td width="33%" align="center" valign="top">
 
-<img src="https://img.icons8.com/fluency-systems-filled/32/FF1493/server.png" width="26"/>
+<img src="https://img.icons8.com/fluency-systems-filled/32/FF1493/server.png" width="24"/>
 
 ### Full-Stack Systems
 
@@ -447,33 +463,17 @@ Database Architecture
 
 ---
 
-# GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bilaltambolialt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilaltambolialt&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=bilaltambolialt&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
-
----
-
 # Let's Connect
 
 <div align="center">
 
-<img src="https://img.icons8.com/fluency-systems-filled/32/00F7FF/marker.png" width="24"/>
+<img src="https://img.icons8.com/fluency-systems-filled/32/00F7FF/marker.png" width="22"/>
 
 **Aurangabad, Maharashtra, India**
 
-   
+  •  
 
-<img src="https://img.icons8.com/fluency-systems-filled/32/8A2BE2/new-post.png" width="24"/>
+<img src="https://img.icons8.com/fluency-systems-filled/32/8A2BE2/new-post.png" width="22"/>
 
 **[bilaltamboli75@gmail.com](mailto:bilaltamboli75@gmail.com)**
 
